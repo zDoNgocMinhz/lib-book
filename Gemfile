@@ -45,4 +45,6 @@ group :test do
   gem "therubyracer"
   gem "webdrivers"
 end
-
+# 
+gem "rails-i18n"
+gem "sass-rails"
